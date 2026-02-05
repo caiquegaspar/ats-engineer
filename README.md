@@ -136,11 +136,37 @@ Este repositório e seus commits funcionam como **registro técnico e público d
 
 ---
 
-## ⚠️ Aviso Legal
+## ⚖️ Licença e Permissões de Uso
 
-Este repositório **não concede licença de uso, reprodução ou redistribuição** do conteúdo integral.
+Este projeto adota um modelo de **licenciamento híbrido** para proteger a propriedade intelectual do autor enquanto permite o uso livre das ferramentas técnicas fornecidas.
 
-Qualquer reprodução não autorizada caracteriza violação de direitos autorais.
+### 1. Manual Técnico (PDF) e Metodologia
+
+O arquivo **`ATS_Engineer.pdf`** e o texto explicativo deste repositório são protegidos por direitos autorais.
+**© 2026 Caíque Barbosa Gaspar. Todos os direitos reservados.**
+
+🚫 **Proibições:**
+
+- É proibida a redistribuição, revenda ou hospedagem do PDF em outros servidores ou sites.
+- É proibida a alteração ou criação de obras derivadas baseadas no texto do manual.
+
+### 2. Ferramentas (Templates LaTeX e Prompts)
+
+O código fonte contido nas pastas `bonus-1/` (Prompts) e `bonus-2/` (Templates LaTeX) é disponibilizado sob a licença **MIT**, para incentivar o uso prático.
+
+✅ **Você tem permissão para:**
+
+- Baixar, editar e utilizar os templates para criar seu currículo pessoal.
+- Utilizar, modificar e adaptar os prompts para uso pessoal ou profissional.
+- Compartilhar o seu currículo gerado (o PDF final com seus dados) livremente.
+
+_Nota: O template utiliza a classe `awesome-cv`, que possui sua própria licença (LaTeX Project Public License), respeitada neste projeto._
+
+---
+
+## ⚠️ Disclaimer
+
+Este projeto é um estudo de engenharia reversa com fins educacionais e profissionais. O autor não possui vínculo com as empresas detentoras das plataformas ATS citadas (Gupy, Workday, etc.) e as marcas registradas pertencem aos seus respectivos proprietários.
 
 ---
 

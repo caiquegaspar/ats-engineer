@@ -592,6 +592,10 @@
         font-family: "JetBrains Mono", monospace;
       }
 
+      .github-cta {
+        margin-top: 1rem;
+      }
+
       /* Coluna da Direita: Apoio */
       .author-support {
         background: rgba(23, 42, 69, 0.6);
@@ -656,6 +660,13 @@
       @media (max-width: 900px) {
         .author-wrapper {
           grid-template-columns: 1fr;
+        }
+        .author-stack {
+          justify-content: center;
+        }
+        .github-cta {
+          display: flex;
+          justify-content: center;
         }
         .author-support {
           border-left: none;
@@ -880,7 +891,7 @@
               <span class="tech-tag">Flutter</span>
             </div>
 
-            <div style="margin-top: 1rem">
+            <div class="github-cta">
               <a
                 href="https://github.com/caiquegaspar/ats-engineer"
                 class="cta-primary"

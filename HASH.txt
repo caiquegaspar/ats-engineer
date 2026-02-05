@@ -1,0 +1,17 @@
+Arquivo: Hacking_the_ATS.pdf
+
+Hash SHA-256:
+a8f9e4bf5eafe93f9e5d3b582acaa3e2c3c321bff236fcee0296515c72f61190
+
+Algoritmo:
+SHA-256
+
+Autor:
+Caíque Barbosa Gaspar
+
+Data de geração do hash:
+2026-02-03
+
+Observação:
+Qualquer alteração no arquivo original invalida este hash.
+Este registro serve como prova criptográfica de integridade e autoria.
